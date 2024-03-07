@@ -14,7 +14,7 @@ const questions = [
         text: "Um sistema operacional para navegadores de internet",
         correct: false,
       },
-      { text: "RUm tipo de servidor web", correct: false },
+      { text: "Um tipo de servidor web", correct: false },
     ],
   },
   {
